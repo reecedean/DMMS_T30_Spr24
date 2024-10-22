@@ -1,5 +1,3 @@
-#include <IRremote.hpp>
-
 // Define the PWM pin connected to the motor controller
 const int motorPin = 9; // You can change this to the pin you're using
 
